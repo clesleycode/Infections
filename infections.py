@@ -1,6 +1,5 @@
 ################################
 # Lesley Cordero
-# Khan Academy Project
 ################################
 
 from user import User
