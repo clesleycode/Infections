@@ -1,6 +1,5 @@
 ################################
 # Lesley Cordero
-# Khan Academy Project
 ################################
 
 class User:
