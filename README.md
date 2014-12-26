@@ -1,22 +1,3 @@
-Khan-Academy-Infections-Project
-===============================
-###############################
-# Lesley Cordero 
-# Khan Academy
-###############################
-
-Project-based Interview: Infection
-
-The goal of this project is to give you an opportunity to code on the sort of problem that we would actually tackle here at Khan Academy.
-
-Feel free to put up the project code wherever you wish. If you already have private github repos available to you, feel free to share with us that way and give access to the user ka-interview. You can also use a public repo. Sending a zip file is fine too. Please under no circumstances pay for a new private repo just to send us your work!
-
-Don’t spend more than 12 hours on this project - you do not need to complete everything. Just do what you can in that time and if you have thoughts on the parts that you didn’t complete, you can share those in a README or in our follow-up conversation.
-
-If you ever have any questions, please feel free to send a message and we’ll try to help you as best as we can!
-
-See this blog post for more background on our project-based interviews.
-
 
 Total Infection
 
