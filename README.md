@@ -1,5 +1,5 @@
 
-Total Infection
+<h3>Total Infection</h3>
 
 When rolling out big new features, we like to enable them slowly, starting with just the KA team, then a handful of users, then some more users, and so on, until weâ€™ve ramped up to 100%. This insulates the majority of users from bad bugs that crop up early in the life of a feature.
 
@@ -11,7 +11,7 @@ First, model users (one attribute of a user is the version of the site they see)
 
 Now implement the infection algorithm. Starting from any given user, the entire connected component of the coaching graph containing that user should become infected.
 
-Limited Infection
+<h3>Limited Infection </h3>
 
 The problem with infection is lack of control over the number of users that eventually become infected. Starting an infection could cause only that person to become infected or at the opposite (unrealistic) extreme it could cause all users to become infected.
 
@@ -19,7 +19,7 @@ We would like to be able to infect close to a given number of users. Ideally weâ
 
 Implement a procedure for limited infection. You will not be penalized for interpreting the specification as you see fit. There are many design choices and tradeoffs, so be prepared to justify your decisions.
 
-Summary
+<h3> Summary </h3>
 
 Write total_infection and limited_infection in your preferred language. Provide tests and instructions for running them. 
  
